@@ -17,3 +17,7 @@ Esto iniciará el sistema frontend y nos brindara una url como esta:
 ![alt text](image.png)
 
 Accedemos a la url y podremos utilizar el sistema.
+
+Cualquier otra consulta escribir al correo:
+---
+carlosgaubertquijada@gmail.com
