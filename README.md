@@ -1,6 +1,6 @@
 # Frontend Haciendola - prueba tecnica
 
-para poder utilizar el sistema se debe tener instalado react y en una terminal escribir el siguiente comando:
+para poder utilizar el sistema se debe tener instalado Node js y En una terminal escribir el siguiente comando:
 
 ```
 npm install 
